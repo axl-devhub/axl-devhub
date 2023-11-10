@@ -8,6 +8,7 @@ _Learning the way of the code and harnessing the world with just my keyboard._
 - Python
 - Javascript
 - React
+- Web Hosting
   
 I'm currently looking for new opportunities to collaborate with other developers and and gain experience. Feel free to contact me if you are interested in working with me or just want to chat. 😊
 
