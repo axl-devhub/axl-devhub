@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### My name is Axel, I'm just a student.
+### My name is Axel, I'm a passionate student
 _Learning the way of the code and harnessing the world with just my keyboard._
 
 ### I'm currently learning:
