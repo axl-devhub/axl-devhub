@@ -4,11 +4,12 @@
 _Learning the way of the code and harnessing the world with just my keyboard._
 
 ### I'm currently learning:
-- Flask
 - Python
 - Javascript
+- NodeJs
 - React
 - Web Hosting
+- MongoDB
   
 I'm currently looking for new opportunities to collaborate with other developers and and gain experience. Feel free to contact me if you are interested in working with me or just want to chat. 😊
 
