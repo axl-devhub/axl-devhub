@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-### My name is Axel, I'm a passionate student
+### My name is Axel, I'm a developer looking to break into this world
 _Learning the way of the code and harnessing the world with just my keyboard._
 
 ### I'm currently learning:
 - Python
-- Javascript
+- Typescript
 - NodeJs
 - React
 - Web Hosting
