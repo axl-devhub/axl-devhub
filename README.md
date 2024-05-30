@@ -13,8 +13,9 @@
 - ⚡ Fun fact **I spent my birthday ricing my new Arch Linux Install**
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on Discord</h3>
 <p align="left">
+  Discord: spaxel2.0
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
