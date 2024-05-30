@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Axel Cuevas</h1>
 
 <h3 align="center">And I'm an avid learner passionate about the world of tech</h3>
-<br>
+<br></br>
+
 - 🔭 I’m currently working on **Biometric Attendance System using NextJS, Python abnd ESP32**
 
 - 🌱 I’m currently learning **Python, Data Analysis, Web Scrapping, FastAPI, React, NextJS, Typescript, NestJS, Supabase, MongoDB, PostgreSQL**
