@@ -3,7 +3,7 @@
 <h3 align="center">And I'm an avid learner passionate about the world of tech</h3>
 <br />
 
-- 🔭 I’m currently working on **Biometric Attendance System using NextJS, Python abnd ESP32**
+- 🔭 I’m currently working on **Biometric Attendance System using NextJS, FastAPI and ESP32**
 
 - 🌱 I’m currently learning **Python, Data Analysis, Web Scrapping, FastAPI, React, NextJS, Typescript, NestJS, Supabase, MongoDB, PostgreSQL**
 
