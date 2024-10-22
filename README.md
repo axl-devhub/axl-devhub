@@ -5,14 +5,17 @@
 <h3 align="center">⚡ Always striving to make a difference</h3>
 <br />
 
-- 🔭 I’m currently working on **Biometric Attendance System using NextJS, FastAPI and QT**
+🔭 I’m currently working on **Biometric Attendance System using NextJS, FastAPI and QT**
 
-- 🌱 I’m currently learning **Python, Data Analysis, Web Scrapping, FastAPI, React, NextJS, Typescript, NestJS, Supabase, MongoDB, PostgreSQL**
+🌱 I’m currently learning **Python, Data Analysis, Web Scrapping, FastAPI, React, NextJS, Typescript, NestJS, Supabase, MongoDB, PostgreSQL**
 
-- ⚡ Fun fact **I spent my birthday ricing my new Arch Linux Install**
+⚡ Fun fact **I spent my birthday ricing my new Arch Linux Install**
 
 
-<div align="center">
+<div>
+    <a href="https://visitcount.itsvg.in">
+        <img src="https://visitcount.itsvg.in/api?id=axl-devhub&icon=0&color=2" alt="Visit Count">
+    </a>
     <h2>🌐 Socials:</h2>
     <a href="https://instagram.com/axel_cuevas02">
         <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
@@ -57,18 +60,11 @@
     <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="Raspberry Pi">
     <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger">
     <h2>📊 GitHub Stats:</h2>
-    <img src="https://github-readme-stats.vercel.app/api?username=axl-devhub&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-    <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=axl-devhub&theme=gruvbox&hide_border=false" alt="GitHub Streak">
     <br/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axl-devhub&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
     <h3>✍️ Random Dev Quote</h3>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Random Dev Quote">
-    <h3>🔝 Top Contributed Repo</h3>
-    <img src="https://github-contributor-stats.vercel.app/api?username=axl-devhub&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo">
-    <br/>
-    <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=axl-devhub&icon=0&color=2" alt="Visit Count">
-    </a>
+
 </div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
