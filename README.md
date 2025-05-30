@@ -1,24 +1,51 @@
 
-<h1 align="center">Hi 👋, I'm Axel Cuevas</h1>
+### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+Here you'll see a sea of contributions with no public repos :rofl:
 
-<h3 align="center">🚀 Passionate learner and a curious one indeed</h3>
-<h3 align="center">⚡ Always striving to make a difference</h3>
-<br />
+- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 🌱 &nbsp;I’m currently learning **Agentic AI**, **Agent Development Kit**, **MCP** and some **ML**
+- 💬 &nbsp;Ask me about anything related to Linux/Docker/Hyprland or Python/Typescript
+- 👨‍💻 &nbsp;Look at my projects at [axl-devhub.me](https://www.axl-devhub.me/projects)
+- ⚡ &nbsp;Fun fact: When I turned 16, I took my **government issued laptop** and turned it into a *Linux web server* to host my projects and show them to clients
 
-🔭 I’m currently working on **Biometric Attendance System using NextJS, FastAPI and QT**
+🌐 &nbsp;**Portfolio**
+<p align="left">
+<a href="https://www.axl-devhub.me" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-axl--devhub-blue?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+</a>
+</p>
 
-🌱 I’m currently learning **Python, Data Analysis, Web Scrapping, FastAPI, React, NextJS, Typescript, NestJS, Supabase, MongoDB, PostgreSQL**
+🔗 &nbsp;**Connect with me**
+<p align="left">
+<a href="mailto:axeljcuevast@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="email" height="30" width="40"/></a>
+<a href="https://linkedin.com/in/axl-devhub" target="blank"><img align="center" style="color: '#EA4335'" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://instagram.com/axl-caves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 
-⚡ Fun fact **I spent my birthday ricing my new Arch Linux Install**
-
-
-<div>
-    <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=axl-devhub&icon=0&color=2" alt="Visit Count">
-    </a>
-    <h2>🌐 Socials:</h2>
-    <a href="https://instagram.com/axel_cuevas02">
-        <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
-    </a>
-</div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+```
+                 .88888888:.
+                88888888.88888.
+              .8888888888888888.
+              888888888888888888
+              88' _`88'_  `88888
+              88 88 88 88  88888
+              88_88_::_88_:88888
+              88:::,::,:::::8888
+              88`:::::::::'`8888
+             .88  `::::'    8:88.
+            8888            `8:888.
+          .8888'             `888888.
+         .8888:..  .::.  ...:'8888888:.
+        .8888.'     :'     `'::`88:88888
+       .8888        '         `.888:8888.
+      888:8         .           888:88888
+    .888:88        .:           888:88888:
+    8888888.       ::           88:888888
+    `.::.888.      ::          .88888888
+   .::::::.888.    ::         :::`8888'.:.
+  ::::::::::.888   '         .::::::::::::
+  ::::::::::::.8    '      .:8::::::::::::.
+ .::::::::::::::.        .:888:::::::::::::
+ :::::::::::::::88:.__..:88888:::::::::::'
+  `'.:::::::::::88888888888.88:::::::::'
+        `':::_:' -- '' -'-' `':_::::'`
+```
