@@ -1,6 +1,7 @@
 
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
-Here you'll see a sea of contributions with no public repos :rofl:
+### Hi there It's Axel <a href="https://www.axl-devhub.me/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
+
+#### Agentic AI/ Full-stack Web Developer
 
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 🌱 &nbsp;I’m currently learning **Agentic AI**, **Agent Development Kit**, **MCP** and some **ML**
